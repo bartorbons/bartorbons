@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bartorbons
 - 👀 I’m interested in lots of things.
-- 🌱 I’m currently learning terraforming
+- 🌱 I have been learning terraforming and vault. I have been doing some AWS basics courses, and am enthousiastic about ansible.
+- I am mainly programming in perl, because that is what i have been doing the last decade or two. But have been playing around in python and many older langauges.
 - 💞️ I’m looking to collaborate on my things to
 - 📫 you can email me at borbons@xs4all.net
 
