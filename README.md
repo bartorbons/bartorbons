@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bartorbons
-- 👀 I’m interested in ...
+- 👀 I’m interested in lots of things.
 - 🌱 I’m currently learning terraforming
-- 💞️ I’m looking to collaborate on my things to do.
-- 📫 you can email me borbons@xs4all.net
+- 💞️ I’m looking to collaborate on my things to
+- 📫 you can email me at borbons@xs4all.net
 
 <!---
 bartorbons/bartorbons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
